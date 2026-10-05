@@ -82,3 +82,11 @@
 ||sdk.privacy-center.org^
 ||cdn.privacy-mgmt.com^
 ||app.usercentrics.eu^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||app.getsentry.com^
+||udcm.yahoo.com^
+||appmetrica.yandex.ru^
+
+sessions.bugsnag.com
