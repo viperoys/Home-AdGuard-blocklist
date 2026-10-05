@@ -105,3 +105,11 @@
 ||rebuyengine.com^
 ||konduto.com^
 ||ubermedia.com^
+||bitrix.info^
+||getpolymorph.com^
+||adtoll.com^
+||mobiletheory.com^
+||365media.com^
+||twyn.com^
+||techsolutions.com.tw^
+||pictela.com^
