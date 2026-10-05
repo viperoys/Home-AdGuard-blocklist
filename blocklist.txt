@@ -97,3 +97,11 @@
 ||chitika.net^
 ||paid-to-promote.net^
 ||sessions.bugsnag.com^
+||ixs1.net^
+||mindshare.nl^
+||admarketplace.com^
+||serv1swork.com^
+||userapi.com^
+||rebuyengine.com^
+||konduto.com^
+||ubermedia.com^
