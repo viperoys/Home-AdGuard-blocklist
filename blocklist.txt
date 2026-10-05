@@ -88,5 +88,12 @@
 ||app.getsentry.com^
 ||udcm.yahoo.com^
 ||appmetrica.yandex.ru^
-
-sessions.bugsnag.com
+||line.me^
+||websitealive5.com^
+||channeladvisor.com^
+||adgibbon.com^
+||adotsolution.com^
+||jobthread.com^
+||chitika.net^
+||paid-to-promote.net^
+||sessions.bugsnag.com^
