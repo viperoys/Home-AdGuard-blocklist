@@ -8,11 +8,6 @@
 ||yandex.ru^
 ||appmetrica.yandex.ru^
 ||ironSource.mobi^
-||redirector.googlevideo.com^
-||click.googleanalytics.com^
-||googletagmanager.com^
-||tagmanager.google.com^
-||www.googletagmanager.com^
 ||quantcast.com^
 ||fingerprintjs.com^
 ||thetradedesk.com^
@@ -66,8 +61,6 @@
 ||redirect.viglink.com^
 ||redirector.skimresources.com^
 ||widget.intercom.io^
-||imasdk.googleapis.com^
-||dai.google.com^
 ||ssl.p.jwpcdn.com^
 ||cdn.cookielaw.org^
 ||geolocation.onetrust.com^
