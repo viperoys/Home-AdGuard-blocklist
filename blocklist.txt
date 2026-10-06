@@ -8,9 +8,7 @@
 ||yandex.ru^
 ||appmetrica.yandex.ru^
 ||ironSource.mobi^
-||s.youtube.com^
 ||redirector.googlevideo.com^
-||youtubei.googleapis.com^
 ||click.googleanalytics.com^
 ||googletagmanager.com^
 ||tagmanager.google.com^
@@ -30,8 +28,6 @@
 ||connect.facebook.net^
 ||graph.facebook.com^
 ||tr.facebook.com^
-||graph.instagram.com^
-||i.instagram.com^
 ||ads.x.com^
 ||ads-api.tiktok.com^
 ||ads-sg.tiktok.com^
