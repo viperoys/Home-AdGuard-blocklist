@@ -11,8 +11,6 @@
 ||quantcast.com^
 ||fingerprintjs.com^
 ||thetradedesk.com^
-||app.appsflyer.com^
-||app.adjust.com^
 ||bnc.lt^
 ||notify.bugsnag.com^
 ||browser.sentry-cdn.com^
@@ -41,14 +39,12 @@
 ||vortex-win.data.microsoft.com^
 ||watson.telemetry.microsoft.com^
 ||mads-eu.amazon.com^
-||firebase-settings.crashlytics.com^
 ||cdn.cookielaw.org^
 ||consent.cookiebot.com^
 ||consentcdn.cookiebot.com^
 ||consent.trustarc.com^
 ||sdk.privacy-center.org^
 ||cdn.privacy-mgmt.com^
-||app.usercentrics.eu^
 ||www.anrdoezrs.net^
 ||www.dpbolvw.net^
 ||www.tkqlhce.com^
